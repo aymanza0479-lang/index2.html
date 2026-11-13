@@ -1,0 +1,20 @@
+{
+  "name": "CASIO fx-991ES PLUS",
+  "short_name": "CASIO",
+  "start_url": "../index.html",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "icon-192.png.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
